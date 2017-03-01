@@ -45,5 +45,9 @@ stop.addEventListener("click",clearDaSVG)
 
 
 
+// foo = document.getElementsByTagName("circle")[x];
+// myRad = parseInt(foo.getAttribute("r")); 
+ // ....
 
+// interalID = window.setInterval (loopbkFxn, 16); 
 
